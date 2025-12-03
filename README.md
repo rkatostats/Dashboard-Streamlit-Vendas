@@ -4,7 +4,8 @@ Este projeto consiste em um dashboard interativo desenvolvido em Python utilizan
 
 O projeto foi desenvolvido durante o curso "Streamlit: construindo um dashboard interativo" da **Alura**.
 
-O projeto está disponível para uso na plataforma da **Streamlit**: https://dashboard-vendas-curso-alura-rkato.streamlit.app/ 
+O projeto está disponível para uso na plataforma da **Streamlit**: 
+https://dashboard-vendas-curso-alura-rkato.streamlit.app/ 
 
 ![Tela principal](image.png)
 
