@@ -4,6 +4,8 @@ Este projeto consiste em um dashboard interativo desenvolvido em Python utilizan
 
 O projeto foi desenvolvido durante o curso "Streamlit: construindo um dashboard interativo" da **Alura**.
 
+![Tela principal](image.png)
+
 ## 🚀 Funcionalidades
 
 O dashboard oferece uma interface intuitiva com as seguintes funcionalidades:
