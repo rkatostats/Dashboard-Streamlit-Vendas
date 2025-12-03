@@ -1,6 +1,8 @@
+import streamlit as st
 import requests
 import pandas as pd
 
+@st.cache_data
 def carregar_dados():
     url = 'https://labdados.com/produtos'
     response = requests.get(url)
