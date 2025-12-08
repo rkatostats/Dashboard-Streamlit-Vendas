@@ -1,17 +1,3 @@
-# Desenvolvido por: Rodrigo Kato
-# Email: rkato.stats@gmail.com
-
-# Version 0.1 - 30/11/2025
-## Inicio da visualizacao das aulas do curso
-# Version 0.2 - 01/12/2025
-## Add de filtros, graficos, tabelas, abas e funcoes (formatar valores, carregar dados)
-# Version 1.0 - 02/12/2025
-## Aprimoramento do layout com auxilio de IA (Gemini) e add rodape (footer - desenvolvido por: chris_klose)
-
-# Contexto:
-# Projeto desenvolvido durante as aulas do curso Streamlit: construindo um dashboard interativo - Alura
-# Instrutor: João Vitor de Miranda
-
 # Libraries
 import streamlit as st
 import pandas as pd
@@ -216,4 +202,5 @@ with aba4:
     )
 
 if __name__ == "__main__":
+
     footer()
