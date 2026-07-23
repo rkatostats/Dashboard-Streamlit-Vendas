@@ -67,8 +67,7 @@ O conteúdo é organizado em quatro abas principais:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
-    cd seu-repositorio
+    git clone https://github.com/rkatostats/Dashboard-Streamlit-Vendas/tree/main
     ```
 
 2.  **Crie e ative um ambiente virtual (opcional, mas recomendado):**
